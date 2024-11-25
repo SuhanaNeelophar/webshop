@@ -1,0 +1,4 @@
+certifi==2021.5.30
+Django==1.11
+pytz==2024.2
+wincertstore==0.2
